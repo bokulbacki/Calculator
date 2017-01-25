@@ -71,6 +71,10 @@ public class calculatorProject
 			{
 				return x * y;
 			}
+<<<<<<< Upstream, based on origin/master
 		// practice
 		System.out.println("TExtra Credit Homework on github ");
+=======
+		// practice comment `1
+>>>>>>> 895a7a9 random
 	}
