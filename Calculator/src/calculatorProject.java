@@ -72,6 +72,6 @@ public class calculatorProject
 				return x * y;
 			}
 
-		System.out.println("TExtra Credit Homework on github ");
+		
 		//comment
 	}
